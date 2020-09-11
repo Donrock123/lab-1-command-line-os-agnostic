@@ -49,7 +49,7 @@ $ ls -l Documents<ENTER>
 Copy and paste the first *two lines* of output below.
 ----------
 
-
+total 0
 
 ==========
 4.  Type:
@@ -59,7 +59,7 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 
-
+.  ..
 
 ==========
 5.  Type:
@@ -69,7 +69,7 @@ Copy and paste the first *two lines* of output below.
 What command was repeated?
 ----------
 
-
+ls -a Documents 
 
 ==========
 6.  Type:
@@ -79,7 +79,7 @@ What command was repeated?
 What command was repeated?
 ----------
 
-
+ls -l Documents
 
 ==========
 7.  Type:
@@ -89,7 +89,7 @@ $ ls /b<TAB><ENTER>
 What is the result of pressing tab?
 ----------
 
-
+It says "ls: cannot access '/b': No such file or directory"
 
 ==========
 8.  Type:
@@ -99,13 +99,13 @@ $ ls doesnotexist
 Copy and paste the output below.
 ----------
 
-
+ls: cannot access 'doesnotexist': No such file or directory
 
 ==========
 9.  What key do I press to go to the previous command?
 ----------
 
-
+<UP>
 
 ==========
 10.  Name two flags that we used in this exercise.
