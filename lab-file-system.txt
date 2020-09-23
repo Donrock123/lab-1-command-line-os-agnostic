@@ -31,7 +31,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 Copy and paste the output of pwd below.
 ----------
 
-
+/home/donnell
 
 ==========
 5. Type:
@@ -42,7 +42,8 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+Desktop    Downloads  Music     animals  textfile.txt
+Documents  Movies     Pictures  pizzarr
 
 ==========
 6. Type:
@@ -53,7 +54,8 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+Desktop    Downloads  Music     animals  pizza
+Documents  Movies     Pictures  food     textfile.txt
 
 ==========
 7. Type:
@@ -75,7 +77,8 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+Desktop    Downloads  Music     animals  food   textfile.txt
+Documents  Movies     Pictures  foo      pizza
 
 ==========
 9. Type:
@@ -86,7 +89,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/
 
 ==========
 10. Type:
@@ -97,7 +100,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+/home/donnell
  
 ==========
 11. Type:
@@ -108,7 +111,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
+bash: ../../../..: Is a directory
 
 ==========
 12. Type:
@@ -120,7 +123,8 @@ $ ls -l
 Copy and paste the first two lines from the output into the space below.
 ----------
 
-
+total 0
+drwxrwxrwx 1 donnell donnell 4096 Sep  9 18:22 Desktop
 
 ==========
 13. Type:
@@ -131,7 +135,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/home/donnell
 
 ==========
 14. Type:
@@ -142,7 +146,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+bash: cd/mnt: No such file or directory
 
 ==========
 15. Type:
@@ -153,7 +157,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+bash: cd: /unknown_folder: No such file or directory
 
 ==========
 15. Type:
@@ -164,7 +168,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+bash: cd: /home/donnell/mtec1003: No such file or directory
 
 ==========
 16a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
@@ -193,7 +197,7 @@ lemon
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
 
-
+cd ~/lemon/strawbery/orange/pineapple
 
 ==========
 18. Make another directory called aardvark.  
@@ -242,12 +246,12 @@ What command did you use?
 23. What command is used to delete empty directories?
 ----------
 
-
+<Delete>
 
 ==========
 24. What command is used to print out your current working directory?
 ----------
-
+CIL
 
 
 ==========
@@ -260,7 +264,7 @@ What command did you use?
 26. What's the shortcut for home directory?
 ----------
 
-
+Ctrl+Shift+P
 
 ==========
 27. What's a pathname?
@@ -272,7 +276,7 @@ What command did you use?
 28. What's a directory?
 ----------
 
-
+A place to input code and control visual studio code
 
 ==========
 29. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
